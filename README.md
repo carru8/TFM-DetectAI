@@ -15,3 +15,6 @@ Donde se ha realizado una WebApp capaz de identificar imágenes generadas por In
 
 ## Demostración 📷
 [Ver WebApp aquí](https://huggingface.co/spaces/carru8/DetectAI)
+
+
+![Ejemplos con la WebApp](https://github.com/user-attachments/assets/f8f7886a-d41a-4ab4-a02f-5e1b9498709b)
